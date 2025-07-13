@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋🏻, I'm JUBER B</h1>
+<h3 align="center">👨🏻‍💻 A Pᴀssɪᴏɴᴀᴛᴇ AI & ML Eɴɢɪɴᴇᴇʀ 👨🏻‍💻</h3>
 ## Hi there 👋
 
 <!--
